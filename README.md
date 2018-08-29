@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Towards a definition of proof-of-thesis
 
-You can use the [editor on GitHub](https://github.com/resilience-me/origin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The word journal comes from diurnal, meaning daily, as in, daily records. The word in German is zeitschrift, from time ("zeit") + writing ("schrift"), and the Swedish word is is "tidsskrift", the same roots as the German word, also translates to "time-writing". Records that can be traced over time. There have been advances in record keeping in the past decades, and with public-private key cryptography, hash-linking, and the Nakamoto consensus, a global infrastructure for secure records, with timestamps, is now available at a very low cost. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/resilience-me/origin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Journaling systems, regardless of domain, perform record keeping, and like any other "human-based trust system" there are very high costs, which means the content has to be filtered heavily. The reason a scientific thesis has to be reviewed in advance, is because journal-based record keeping has not had enough resources to record _all ideas_, and to then let the citation process be what proves wether or not a thesis has value. With "technology based trust systems" such as Ethereum, the costs decrease massively, and that means that the laws of economics allow for other organizational structures.
